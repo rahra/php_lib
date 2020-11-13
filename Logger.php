@@ -7,6 +7,9 @@
  */
 
 
+namespace php_lib;
+
+
 class Logger
 {
    const LOG_EMERG = 0;

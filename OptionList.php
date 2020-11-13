@@ -13,6 +13,9 @@
  */
 
 
+namespace php_lib;
+
+
 /*! OptionList is a universal key/value pair parser.
  * The default value separator is '=' and the default pair separator is ' '.
  */

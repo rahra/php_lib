@@ -9,6 +9,9 @@
  */
 
 
+namespace php_lib;
+
+
 /*! This class implements a stack.
  */
 class Stack
